@@ -1,4 +1,5 @@
-# This project tries to find out if a young person smokes or not by looking at their health and personal details.
+# Tobacoo addiction among youth in different cities by comparing two machine learning models — Logistic Regression and K-Nearest Neighbors (KNN)
+This project tries to find out if a young person smokes or not by looking at their health and personal details.
 It also compares two computer methods — Logistic Regression and KNN — to see which one gives better results.
 Step-by-step:
 Data collection – The information comes from a file with details like:
